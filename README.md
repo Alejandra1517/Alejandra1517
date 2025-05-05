@@ -10,17 +10,15 @@
 
 ##
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 10px;">
+<div style="display: flex; justify-content: space-between; width: 100%; padding: 10px 0;">
   <div style="flex: 1; text-align: left;">
     <img src="https://github-readme-stats.vercel.app/api?username=Alejandra1517&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="GitHub Stats"/>
   </div>
   
   <div style="flex: 1; text-align: right;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra1517&layout=compact&theme=dark" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra1517&layout=compact&theme=purple" alt="Top Langs"/>
   </div>
 </div>
-
-
 
 ## 
 <p align="center">
