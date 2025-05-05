@@ -8,7 +8,7 @@
 ## 
 
 <!-- Stats -->
-<div style="display: flex; justify-content: center; gap: 5px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Alejandra1517&show_icons=true&count_private=true&hide_title=false&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark" alt="GitHub Stats" style="width: 400px; height: 200px;" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra1517&layout=compact&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark&hide_border=true" alt="Top Langs" style="width: 400px; height: 200px;" />
