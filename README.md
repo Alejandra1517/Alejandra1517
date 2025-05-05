@@ -4,15 +4,15 @@
 
 ## Hi 👋 I'm Alejandra
 <!-- Encabezado -->
-<h2 style="font-family: 'Poppins', sans-serif; font-size: 18px; text-align: center; margin-bottom: 30px;">
+<h3 style="font-family: 'Poppins', sans-serif; font-size: 18px; text-align: center; margin-bottom: 30px;">
   <strong>I'm a curious and driven software developer who loves learning new technologies and contributing to impactful projects.</strong>
-</h2>
+</h3>
 
 <!-- Stats -->
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 40px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Alejandra1517&show_icons=true&count_private=true&hide_title=false&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark" alt="GitHub Stats" style="width: 400px; height: 200px;" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra1517&layout=compact&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark&hide_border=true" alt="Top Langs" style="width: 200px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra1517&layout=compact&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark&hide_border=true" alt="Top Langs" style="width: 400px; height: 200px;" />
 </div>
 
 <!-- Separador -->
