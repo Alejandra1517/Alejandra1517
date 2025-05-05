@@ -10,7 +10,7 @@
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandra1517&show_icons=true&count_private=true&hide_title=true&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark" alt="GitHub Stats" style="max-width: 100%; height: auto; transform: translateX(-20px);"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejandra1517&show_icons=true&count_private=true&hide_title=false&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra1517&layout=compact&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark" alt="Top Langs" style="max-width: 100%; height: auto; border: none; outline: none;"/>
 </div>
 
