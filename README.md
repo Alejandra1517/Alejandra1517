@@ -8,10 +8,8 @@
   <strong>I'm a curious and driven software developer who loves learning new technologies and contributing to impactful projects.</strong>
 </h2>
 
-##
 
-
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; gap: 10px;">
   <div style="flex: 1; max-width: 48%;">
     <img src="https://github-readme-stats.vercel.app/api?username=Alejandra1517&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="GitHub Stats"/>
   </div>
