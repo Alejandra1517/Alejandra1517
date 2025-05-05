@@ -10,26 +10,23 @@
 <!-- Stats -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 5px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Alejandra1517&show_icons=true&count_private=true&hide_title=false&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark" alt="GitHub Stats" style="width: 400px; height: 200px;" />
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Alejandra1517&theme=dark&layout=compact&bg_color=292D3E&hide_border=true&title_color=8F6EAC&text_color=FFFFFF" alt="WakaTime Stats" style="width: 400px; height: 200px;"/>
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra1517&layout=compact&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark&hide_border=true" alt="Top Langs" style="width: 400px; height: 200px;" />
 </div>
 
 ## 
 
 <h3 align="center">⌛ My Coding Activity</h3>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Alejandra1517&theme=dark&layout=compact&bg_color=292D3E&hide_border=true&title_color=8F6EAC&text_color=FFFFFF" alt="WakaTime Stats"/>
 </p>
 
 <!-- ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Alejandra1517&theme=dark&layout=compact&bg_color=292D3E&hide_border=true) 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra1517&layout=compact&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark&hide_border=true" alt="Top Langs" style="width: 400px; height: 200px;" />
 -->
 
 
 <!-- Separador -->
 <hr style="border: none; border-top: 1px solid #ccc; margin: 40px 0;" />
 
-![Tech Stack](https://img.shields.io/badge/Tech%20Stack-JS%20%7C%20React%20%7C%20Node%20%7C%20Tailwind-1379B3?style=for-the-badge&logo=stackshare&logoColor=white)
 <!-- Tecnologías -->
 <p align="center" style="margin-bottom: 40px;">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
