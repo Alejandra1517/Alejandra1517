@@ -1,8 +1,9 @@
 ## Hi 👋 I'm Alejandra
 
-<span style="font-family: 'Space Grotesk', sans-serif; font-size: 18px;">
-  <strong>I am a software developer, passionate about learning new technologies and collaborating on impactful projects.</strong>
+<span style="font-family: 'Poppins', sans-serif; font-size: 18px;">
+  <strong>I'm a curious and driven software developer who loves learning new technologies and contributing to impactful projects.</strong>
 </span>
+
 
 ## 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
