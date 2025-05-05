@@ -1,5 +1,5 @@
 
-## Hi 👋 I'm Alejandra
+## <h2>Hi 👋 I'm Alejandra</h2>
 <!-- Encabezado -->
 <h3 style="font-family: 'Poppins', sans-serif; font-size: 18px; text-align: center; margin-bottom: 30px;">
   <strong>I'm a curious and driven software developer who loves learning new technologies and contributing to impactful projects.</strong>
