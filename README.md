@@ -14,6 +14,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra1517&layout=compact&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark&hide_border=true" alt="Top Langs" style="width: 400px; height: 200px;" />
 </div>
 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO&theme=dark&layout=compact)
+
 <!-- Separador -->
 <hr style="border: none; border-top: 1px solid #ccc; margin: 40px 0;" />
 
