@@ -15,9 +15,7 @@
 
 ## 
 <h3 align="center">⌛ My Coding Activity</h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Alejandra1517&theme=dark&layout=compact&bg_color=292D3E&hide_border=true&title_color=8F6EAC&text_color=FFFFFF" alt="WakaTime Stats"/>
-</div>
 
 <!-- ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Alejandra1517&theme=dark&layout=compact&bg_color=292D3E&hide_border=true) 
 -->
