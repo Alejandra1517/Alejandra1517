@@ -9,14 +9,9 @@
 </h2>
 
 
-<div style="display: flex; gap: 10px;">
-  <div style="flex: 1; max-width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alejandra1517&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="GitHub Stats"/>
-  </div>
-  
-  <div style="flex: 1; max-width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra1517&layout=compact&theme=dark" alt="Top Langs"/>
-  </div>
+<div style="display: grid; grid-template-columns: auto auto; gap: 10px;">
+  <div><img src="https://github-readme-stats.vercel.app/api?username=Alejandra1517&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="GitHub Stats"/></div>
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra1517&layout=compact&theme=dark" alt="Top Langs"/></div>
 </div>
 
 
