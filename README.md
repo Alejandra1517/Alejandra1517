@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Alejandra
 
-## <span style="font-family: 'Space Grotesk', sans-serif; font-size: 18px;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 18px;">
   <strong>I am a software developer, passionate about learning new technologies and collaborating on impactful projects.</strong>
 </span>
 
