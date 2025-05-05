@@ -10,7 +10,15 @@
 
 ##
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejandra1517&show_icons=true&count_private=true&hide_title=true&theme=dark)
+<p align="center">
+  <div style="display: inline-block; padding-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alejandra1517&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="GitHub Stats"/>
+  </div>
+  
+  <div style="display: inline-block; padding-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra1517&layout=compact&theme=dark" alt="Top Langs"/>
+  </div>
+</p>
 
 ## 
 <p align="center">
