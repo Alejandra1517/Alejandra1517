@@ -1,6 +1,3 @@
-<p align="right">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Alejandra1517.Alejandra1517&left_color=1379B3&right_color=555555" alt="Visitors badge" />
-</p>
 
 ## Hi 👋 I'm Alejandra
 <!-- Encabezado -->
