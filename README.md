@@ -14,7 +14,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandra1517&layout=compact&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark&hide_border=true" alt="Top Langs" style="width: 400px; height: 200px;" />
 </div>
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Alejandra1517&theme=dark&layout=compact&bg_color=292D3E&hide_border=true)
+<h3 align="center">⌛ My Coding Activity</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Alejandra1517&theme=dark&layout=compact&bg_color=292D3E&hide_border=true&title_color=8F6EAC&text_color=FFFFFF" alt="WakaTime Stats" />
+</p>
+
+<!-- ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Alejandra1517&theme=dark&layout=compact&bg_color=292D3E&hide_border=true) -->
 
 
 <!-- Separador -->
