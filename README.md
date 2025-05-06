@@ -7,7 +7,7 @@
 
 ## 
 
-```ts
+`ts`
 const aboutMe = {
   name: "Alejandra",
   age: 25,
@@ -16,6 +16,7 @@ const aboutMe = {
   lookingFor: "Exciting projects to learn and grow 🚀"
 };
 
+`ts`
 
 <!-- Stats -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 5px; margin-bottom: 20px;">
