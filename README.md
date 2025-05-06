@@ -7,16 +7,11 @@
 
 ## 
 
-`ts`
-const aboutMe = {
-  name: "Alejandra",
-  age: 25,
-  hobbies: ["coding", "reading sci-fi", "3D modeling", "playing video games"],
-  developer: true,
-  lookingFor: "Exciting projects to learn and grow 🚀"
-};
+```ts
 
-`ts`
+const aboutMe = {name: "Alejandra", age: 21, hobbies: ["Coding", "Reading", "learning new things"]};
+
+```
 
 <!-- Stats -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 5px; margin-bottom: 20px;">
