@@ -5,13 +5,14 @@
   <strong>I'm a curious and driven software developer who loves learning new technologies and contributing to impactful projects.</strong>
 </h3>
 
-## 
-
 ```ts
 
 const aboutMe = {name: "Alejandra", age: 21, hobbies: ["Coding", "Reading", "learning new things"]};
 
 ```
+
+## 
+
 
 <!-- Stats -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 5px; margin-bottom: 20px;">
@@ -35,6 +36,8 @@ const aboutMe = {name: "Alejandra", age: 21, hobbies: ["Coding", "Reading", "lea
 
 <!-- Separador -->
 <hr style="border: none; border-top: 1px solid #ccc; margin: 40px 0;" />
+
+<h3 align="center">🛠️ My Tech Stack</h3>
 
 <!-- Tecnologías -->
 <p align="center" style="margin-bottom: 40px;">
