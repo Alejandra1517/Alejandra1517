@@ -7,6 +7,16 @@
 
 ## 
 
+```ts
+const aboutMe = {
+  name: "Alejandra",
+  age: 25,
+  hobbies: ["coding", "reading sci-fi", "3D modeling", "playing video games"],
+  developer: true,
+  lookingFor: "Exciting projects to learn and grow 🚀"
+};
+
+
 <!-- Stats -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 5px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Alejandra1517&show_icons=true&count_private=true&hide_title=false&bg_color=292D3E&icon_color=89DDFF&title_color=8F6EAC&text_color=FFFFFF&theme=dark" alt="GitHub Stats" style="width: 400px; height: 200px;" />
