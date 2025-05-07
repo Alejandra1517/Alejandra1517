@@ -7,7 +7,7 @@
 
 ```ts
 
-const aboutMe = {name: "Alejandra", age: 21, hobbies: ["Coding", "Reading", "learning new things"]};
+const aboutMe = {name: "Alejandra", age: 21, hobbies: ["Programming", "Reading", "Learning new things"]};
 
 ```
 
