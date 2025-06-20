@@ -37,10 +37,10 @@ const aboutMe = {name: "Alejandra", age: 21, hobbies: ["Programming", "Reading",
 <!-- Separador -->
 <hr style="border: none; border-top: 1px solid #ccc; margin: 40px 0;" />
 
-<h3 align="center">🛠️ My Tech Stack</h3>
+<!--<h3 align="center">🛠️ My Tech Stack</h3> -->
 
 <!-- Tecnologías -->
-<p align="center" style="margin-bottom: 40px;">
+<!--<p align="center" style="margin-bottom: 40px;">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white" />
@@ -49,4 +49,4 @@ const aboutMe = {name: "Alejandra", age: 21, hobbies: ["Programming", "Reading",
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-</p>
+</p> -->
